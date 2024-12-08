@@ -30,7 +30,7 @@ function Hero1() {
               <div className="font-medium">Nike Air Max Pulse</div>
               <div className="font-medium">₹ 13 995</div>
             </div>
-            <div className="font-normal text-[15px] text-[#757575]">Women's Show</div>
+            <div className="font-normal text-[15px] text-[#757575]">Women`s Show</div>
           </div>
         </div>
   
@@ -42,7 +42,7 @@ function Hero1() {
               <div className="font-medium">Nike Air Max Pulse</div>
               <div className="font-medium">₹ 13 995</div>
             </div>
-            <div className="font-normal text-[15px] text-[#757575]">Men's Show</div>
+            <div className="font-normal text-[15px] text-[#757575]">Men`s Show</div>
           </div>
         </div>
   
@@ -54,7 +54,7 @@ function Hero1() {
               <div className="font-medium">Nike Air Max 97 SE</div>
               <div className="font-medium">₹ 13 995</div>
             </div>
-            <div className="font-normal text-[15px] text-[#757575]">Women's Show</div>
+            <div className="font-normal text-[15px] text-[#757575]">Women`s Show</div>
           </div>
         </div>
       </div>

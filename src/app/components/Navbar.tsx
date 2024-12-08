@@ -105,7 +105,7 @@ function Navbar() {
             />
 
             <nav className="mt-8 flex flex-col gap-4 px-6 text-sm">
-              <Link href="#" className="hover:text-gray-300">
+              <Link href="/" className="hover:text-gray-300">
                 New & Featured
               </Link>
               <Link href="/gear" className="hover:text-gray-300">

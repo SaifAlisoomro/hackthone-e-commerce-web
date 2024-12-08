@@ -11,7 +11,7 @@ function Gear() {
   <div className="flex flex-wrap justify-between gap-6">
     <div className="w-full sm:w-full xl:w-[666px] wrapper h-auto bg-slate-100">
       <div className="w-full h-[48px] flex justify-between items-center p-4">
-        <div className="text-left">Shop Men's</div>
+        <div className="text-left">Shop Men`s</div>
         <div className="flex space-x-2">
           <IoIosArrowBack className="bg-[#E5E5E5] rounded-full text-black " />
           <IoIosArrowForward className="bg-[#E5E5E5] rounded-full text-black " />
@@ -25,7 +25,7 @@ function Gear() {
               <div className="font-medium text-[12px]">
                 Nike Dri-FIT ADV TechKnit Ultra
                 <div className="font-normal text-[12px] text-[#757575] mt-1">
-                  Men's Short-Sleeve Running Top
+                  Men`s Short-Sleeve Running Top
                 </div>
               </div>
               <div className="font-medium text-[12px]">₹ 3,895</div>
@@ -39,7 +39,7 @@ function Gear() {
               <div className="font-medium text-[12px]">
                 Nike Dri-FIT Challenger
                 <div className="font-normal text-[10px] text-[#757575] mt-1">
-                  Men's 18cm (approx.) 2-in-1 Versatile Shorts
+                  Men`s 18cm (approx.) 2-in-1 Versatile Shorts
                 </div>
               </div>
               <div className="font-medium text-[12px]">₹ 2,495</div>
@@ -51,7 +51,7 @@ function Gear() {
     
     <div className="w-full sm:w-full xl:w-[666px] wrapper h-auto bg-slate-100">
       <div className="w-full h-[48px] flex justify-between items-center p-4">
-        <div className="text-left">Shop Women's</div>
+        <div className="text-left">Shop Women`s</div>
         <div className="flex space-x-2">
           <IoIosArrowBack className="bg-[#E5E5E5] rounded-full text-black " />
           <IoIosArrowForward className="bg-[#E5E5E5] rounded-full text-black " />
@@ -65,7 +65,7 @@ function Gear() {
               <div className="font-medium text-[12px]">
                 Nike Dri-FIT ADV Run Division
                 <div className="font-normal text-[12px] text-[#757575] mt-1">
-                  Women's Long-Sleeve Running Top
+                  Women`s Long-Sleeve Running Top
                 </div>
               </div>
               <div className="font-medium text-[12px]">₹ 5,295</div>
@@ -79,7 +79,7 @@ function Gear() {
               <div className="font-medium text-[12px]">
                 Nike Fast
                 <div className="font-normal text-[12px] text-[#757575] mt-1">
-                  Women's Mid-Rise 7/8 Running Leggings with Pockets
+                  Women`s Mid-Rise 7/8 Running Leggings with Pockets
                 </div>
               </div>
               <div className="font-medium text-[12px]">₹ 3,795</div>

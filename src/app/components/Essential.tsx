@@ -74,11 +74,11 @@ function Essential() {
   
         
         <ul className="text-start">
-          <span className="font-medium">Kids'</span>
+          <span className="font-medium">Kids</span>
           <li className="font-normal text-[#757575]">Infant & Toddler Shoes</li>
-          <li className="font-normal text-[#757575]">Kids' Shoes</li>
-          <li className="font-normal text-[#757575]">Kids' Jordan Shoes</li>
-          <li className="font-normal text-[#757575]">Kids' Basketball Shoes</li>
+          <li className="font-normal text-[#757575]">Kids Shoes</li>
+          <li className="font-normal text-[#757575]">Kids Jordan Shoes</li>
+          <li className="font-normal text-[#757575]">Kids Basketball Shoes</li>
         </ul>
       </div>
     </div>

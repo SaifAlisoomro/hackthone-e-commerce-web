@@ -5,7 +5,7 @@ function Miss() {
   return (
    <>
  <div className="w-full h-auto mt-36 wrapper">
-  <div className="w-full text-[22px] font-medium m-5">Don't Miss</div>
+  <div className="w-full text-[22px] font-medium m-5">Don`t Miss</div>
   
   <div className="w-full h-auto">
     <Image 
